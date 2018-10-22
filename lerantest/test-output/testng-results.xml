@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106206" started-at="2018-10-21T12:16:22Z" finished-at="2018-10-21T12:18:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106206" started-at="2018-10-21T12:16:22Z" finished-at="2018-10-21T12:18:08Z">
+      <class name="lerantest.Tools_form">
+        <test-method status="PASS" signature="setup()[pri:0, instance:lerantest.Tools_form@39c0f4a]" name="setup" is-config="true" duration-ms="71823" started-at="2018-10-21T12:16:22Z" finished-at="2018-10-21T12:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="form_fill()[pri:0, instance:lerantest.Tools_form@39c0f4a]" name="form_fill" duration-ms="32098" started-at="2018-10-21T12:17:33Z" finished-at="2018-10-21T12:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form_fill -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:lerantest.Tools_form@39c0f4a]" name="teardown" is-config="true" duration-ms="2199" started-at="2018-10-21T12:18:06Z" finished-at="2018-10-21T12:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- lerantest.Tools_form -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
